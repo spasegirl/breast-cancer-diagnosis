@@ -4,10 +4,7 @@
 This project aims to analyze and build a machine learning model to diagnose breast cancer based on various features of cell nuclei present in the dataset.
 
 ## Project Structure
-- `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks for data exploration and analysis.
-- `src/`: Source code for data preprocessing and modeling.
-- `models/`: Saved machine learning models.
+- `notebooks/`: Jupyter notebooks for data exploration and analysis and the dataset.
 - `results/`: Results and output files.
 - `docs/`: Documentation and additional information.
 
